@@ -5,6 +5,7 @@ public class cookie {
     public static void main(String[] args) {
         System.out.println("Welcome to cookie clicker");
         System.out.println("You can type in prestige at any moment in time to see your prestige, and how many cookies you need to get to your next prestige");
+        System.out.println("Im currently working on a shop (not functional right now), type shop to enter the shop");
         Scanner input;
         input = new Scanner(System.in);
         String newcookie;
